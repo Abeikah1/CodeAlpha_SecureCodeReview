@@ -38,4 +38,4 @@ third-party code without permission) keeps the exercise self-contained,
 reproducible, and safe — nothing here is ever run against a live target.
 
 ## Author
-Beikaahh — CodeAlpha Cyber Security Internship, Task 3
+Irene — CodeAlpha Cyber Security Internship, Task 3
